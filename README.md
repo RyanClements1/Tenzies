@@ -30,7 +30,6 @@ Install **Node.js** and **npm** before running the project:
 
 - [Download Node.js (LTS)](https://nodejs.org/en/download)
 - [npm documentation](https://docs.npmjs.com/)
-- [Git downloads](https://git-scm.com/downloads) (optional, for cloning a repository)
 
 To check that Node.js and npm are installed, open a terminal and run:
 
@@ -92,6 +91,6 @@ npm --version
 └── README.md        # Project documentation
 ```
 
-## Learning resource
+## Project Background
 
-This project is based on a React learning exercise from [Scrimba's Learn React course](https://scrimba.com/learn-react-c0e/~04ao).
+This project was developed as a React learning exercise based on [Scrimba's Learn React course](https://scrimba.com/learn-react-c0e). It demonstrates React hooks, derived game state, conditional rendering, event handling, and reusable helper functions.
