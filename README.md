@@ -61,22 +61,6 @@ npm --version
 
 5. **Open the local URL** printed in your terminal (typically `http://localhost:5173/`) in your browser.
 
-### Optional: install dependencies individually
-
-If you are rebuilding the project from an empty npm setup rather than using the included `package.json`, install the runtime dependencies with:
-
-```bash
-npm install react@18.3.1 react-dom@18.3.1 nanoid@5.0.7 react-confetti@6.1.0 vite@latest
-```
-
-Then install the Vite React plugin as a development dependency:
-
-```bash
-npm install --save-dev @vitejs/plugin-react
-```
-
-**Note:** These individual installation commands are *not* necessary after running `npm install` in this project. The commands above mirror the package versions in this repository, except for dependencies whose versions are already set to `latest` or `*`.
-
 ## Available commands
 
 | Command | Description |
