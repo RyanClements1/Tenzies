@@ -92,6 +92,6 @@ npm --version
 └── README.md        # Project documentation
 ```
 
-## Learning resource
+## Project Background
 
-This project is based on a React learning exercise from [Scrimba's Learn React course](https://scrimba.com/learn-react-c0e/~04ao).
+This project was developed as a React learning exercise based on [Scrimba's Learn React course](https://scrimba.com/learn-react-c0e). It demonstrates React hooks, derived game state, conditional rendering, event handling, and reusable helper functions.
