@@ -30,7 +30,6 @@ Install **Node.js** and **npm** before running the project:
 
 - [Download Node.js (LTS)](https://nodejs.org/en/download)
 - [npm documentation](https://docs.npmjs.com/)
-- [Git downloads](https://git-scm.com/downloads) (optional, for cloning a repository)
 
 To check that Node.js and npm are installed, open a terminal and run:
 
